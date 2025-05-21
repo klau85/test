@@ -1,5 +1,5 @@
 # test
 test
 
-- this is the main branch
-- v1.0.2
+- this is the v2 branch
+- v2.0.0
